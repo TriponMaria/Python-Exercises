@@ -1,0 +1,6 @@
+4 4.5 0.06
+06 07 15 07
+Bucuresti 10 07 200 07 0
+Timisoara 15 07 150 400
+Ploiesti 05 08 150 60
+Brasov 21 08 180 160
